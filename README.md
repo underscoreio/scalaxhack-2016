@@ -38,9 +38,9 @@ Send us a PR to list it here! Here's an example:
 
 - **ADD YOUR PROJECTS HERE**
 
-## Workshop Proposals
+## Proposals for talks/workshops/round-tables
 
-Ideas for talks, round-tables, and interactive sessions.
+Ideas for talks, round-tables, workshops, and interactive sessions.
 Anywhere from 10 to 60 minutes in length.
 Sessions will be voted on unconference-style,
 so some suggestions may not be taken up on the day.

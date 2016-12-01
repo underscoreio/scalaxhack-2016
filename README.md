@@ -2,6 +2,8 @@
 
 Topic and project suggestions for ScalaxHack 2016.
 
+[![Gitter](https://badges.gitter.im/underscoreio/scalaxhack-2016.svg)](https://gitter.im/underscoreio/scalaxhack-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 We'll arrange a schedule on the day based on what peoples' interests.
 We'll aim to have a mix of hacking and short talks/workshops.
 This is a collection of ideas and proposals.
@@ -42,6 +44,14 @@ Send us a PR to list it here! Here's an example:
   
   Monocle is a lenses and optics library for Scala.
 
+- **Sam Halliday, Rory Graves, Dick Wall, ENSIME**
+
+  http://ensime.org is a libre software project bringing Scala and Java IDE-like features to your favourite text editor.
+   
+  Do you use ENSIME and want to improve it, or need a feature before you can move from IntelliJ? Please come along! 
+   
+  The [Contributing Guide](http://ensime.org/contributing) is a good place to start if you're a newcomer.
+ 
 - **ADD YOUR PROJECTS HERE**
 
 ## Proposals for talks/workshops/round-tables

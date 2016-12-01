@@ -22,6 +22,16 @@ Send us a PR to list it here! Here's an example:
   We suggest including a link to your issue tracker
   and highlighting simple issues for newcomers.
 
+
+- **Miles Sabin, Typelevel Scala Compiler**
+
+  http://github.com/typelevel/scala
+
+  Compiler hacking is fun and not as scary as you might think.
+  In this session we'll fork, clone, build, tweak, 
+  and use the Typelevel Scala compiler 
+  as an introduction to compiler hacking.
+  
 - **ADD YOUR PROJECTS HERE**
 
 ## Workshop Proposals

@@ -36,6 +36,12 @@ Send us a PR to list it here! Here's an example:
   Hackathon on scala.meta and new-style macros.
   We'll have a bunch of approachable issues for newcomers.
 
+- **Julien Truffaut, Monocle**
+
+  http://julien-truffaut.github.io/Monocle  
+  
+  Monocle is a lenses and optics library for Scala.
+
 - **ADD YOUR PROJECTS HERE**
 
 ## Proposals for talks/workshops/round-tables

@@ -22,7 +22,6 @@ Send us a PR to list it here! Here's an example:
   We suggest including a link to your issue tracker
   and highlighting simple issues for newcomers.
 
-
 - **Miles Sabin, Typelevel Scala Compiler**
 
   http://github.com/typelevel/scala
@@ -31,7 +30,12 @@ Send us a PR to list it here! Here's an example:
   In this session we'll fork, clone, build, tweak, 
   and use the Typelevel Scala compiler 
   as an introduction to compiler hacking.
-  
+
+- **Eugene Burmako, Scala.Meta and Macro Paradise**
+
+  Hackathon on scala.meta and new-style macros.
+  We'll have a bunch of approachable issues for newcomers.
+
 - **ADD YOUR PROJECTS HERE**
 
 ## Workshop Proposals
@@ -52,5 +56,32 @@ so some suggestions may not be taken up on the day.
   Feel free to link to extra information.
   Let people know if they need laptops and
   provide pointers to setup instructions if required.
+ 
+- **Dave Gurnell, Beginner's Shapeless Workshop, 60 minutes**
+
+  An easy introduction to shapeless, 
+  working on a few of the examples from the
+  [Shapelss Guide](http://github.com/underscoreio/shapeless-guide).
+  Bring a laptop with Scala on it and 
+  clone [this repo](http://github.com/underscoreio/shapeless-guide-code) to get set up.
+
+- **Noel Welsh, Beginner's Cats Workshop, 60 minutes**
+ 
+  http://github.com/typelevel/cats
+
+  Details TBA.
+
+- **Renato Cavalcanti, Beginner's Fun.CQRS Workshop, 60 minutes**
+
+  https://github.com/strongtyped/fun-cqrs
+
+  Details TBA.
+
+- **Richard Dallaway, Beginner's Slick Workshop, 60 minutes**
+
+  An introduction to Slick using part of the content from last year's
+  [Slick workshop](https://vimeo.com/148074461).
+  Bring a laptop with Scala on it and 
+  clone [this repo](http://github.com/underscoreio/essential-slick-code) to get set up.
  
 - **ADD YOUR PROPOSALS HERE**

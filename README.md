@@ -52,7 +52,15 @@ Send us a PR to list it here! Here's an example:
    
   The [Contributing Guide](http://ensime.org/contributing) is a good place to start if you're a newcomer.
  
-- **ADD YOUR PROJECTS HERE**
+- **Shimi Bandiel, Comonads Notation for Dotty**
+
+  I've prartially prototyped a co-monads comprehension (cofor) in Dotty. 
+  
+  Come and help discuss, design and implement a convenient and helpful syntax for co-monads.
+  
+  (Based on the work of Dominic Orchard https://github.com/dorchard/codo-notation in Haskell).
+  
+**ADD YOUR PROJECTS HERE**
 
 ## Proposals for talks/workshops/round-tables
 

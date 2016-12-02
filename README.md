@@ -60,6 +60,16 @@ Send us a PR to list it here! Here's an example:
   
   (Based on the work of Dominic Orchard https://github.com/dorchard/codo-notation in Haskell).
   
+- **Julien Richard-Foy, scalajs-bundler**
+
+  https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aopen+is%3Aissue+label%3Ahackathon
+
+  scalajs-bundler is an sbt plugin that fetches the JavaScript dependencies
+  of your Scala.js project from the NPM registry and bundles them with your
+  application into a single artifact executable by a Web browser.
+
+  The above link highlights the issues that are approachable for newcomers.
+
 **ADD YOUR PROJECTS HERE**
 
 ## Proposals for talks/workshops/round-tables

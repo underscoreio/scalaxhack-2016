@@ -95,11 +95,13 @@ so some suggestions may not be taken up on the day.
 
   Details TBA.
 
-- **Renato Cavalcanti, Beginner's Fun.CQRS Workshop, 60 minutes**
-
-  https://github.com/strongtyped/fun-cqrs
-
-  Details TBA.
+- **Renato Cavalcanti, Beginner's Fun.CQRS Workshop, 60 minutes**  
+ 
+  In this workshop you get your hands dirty with [Fun.CQRS](https://github.com/strongtyped/fun-cqrs). 
+  
+  You will learn the basic principles of CQRS / ES and how to model a domain in terms of Commands and Events. We will explore some strategies that can be applied when designing aggregates (write-models) and views (read-models).
+  
+  Workshop material can be found [here](https://github.com/strongtyped/fun-cqrs-order-demo).
 
 - **Richard Dallaway, Beginner's Slick Workshop, 60 minutes**
 

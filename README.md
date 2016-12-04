@@ -37,6 +37,8 @@ Send us a PR to list it here! Here's an example:
 
   Hackathon on scala.meta and new-style macros.
   We'll have a bunch of approachable issues for newcomers.
+  
+  https://github.com/scalameta/scalameta/issues?q=is%3Aissue+is%3Aopen+label%3AHackathon
 
 - **Julien Truffaut, Monocle**
 

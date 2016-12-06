@@ -13,7 +13,7 @@ This is a collection of ideas and proposals.
 Have a project you'd like to bring to the hack day? 
 Send us a PR to list it here! Here's an example:
 
-- **Example Person, Example Library**
+### Example Person, Example Library
 
   http://github.com/example-person/example-library
 
@@ -24,7 +24,7 @@ Send us a PR to list it here! Here's an example:
   We suggest including a link to your issue tracker
   and highlighting simple issues for newcomers.
 
-- **Miles Sabin, Typelevel Scala Compiler**
+### Miles Sabin, Typelevel Scala Compiler
 
   http://github.com/typelevel/scala
 
@@ -33,20 +33,20 @@ Send us a PR to list it here! Here's an example:
   and use the Typelevel Scala compiler 
   as an introduction to compiler hacking.
 
-- **Eugene Burmako, Scala.Meta and Macro Paradise**
+### Eugene Burmako, Scala.Meta and Macro Paradise
 
   Hackathon on scala.meta and new-style macros.
   We'll have a bunch of approachable issues for newcomers.
   
   https://github.com/scalameta/scalameta/issues?q=is%3Aissue+is%3Aopen+label%3AHackathon
 
-- **Julien Truffaut, Monocle**
+### Julien Truffaut, Monocle
 
   http://julien-truffaut.github.io/Monocle  
   
   Monocle is a lenses and optics library for Scala.
 
-- **Sam Halliday, Rory Graves, Dick Wall, ENSIME**
+### Sam Halliday, Rory Graves, Dick Wall, ENSIME
 
   http://ensime.org is a libre software project bringing Scala and Java IDE-like features to your favourite text editor.
    
@@ -54,7 +54,7 @@ Send us a PR to list it here! Here's an example:
    
   The [Contributing Guide](http://ensime.org/contributing) is a good place to start if you're a newcomer.
  
-- **Shimi Bandiel, Comonads Notation for Dotty**
+### Shimi Bandiel, Comonads Notation for Dotty
 
   I've prartially prototyped a co-monads comprehension (cofor) in Dotty. 
   
@@ -62,7 +62,7 @@ Send us a PR to list it here! Here's an example:
   
   (Based on the work of Dominic Orchard https://github.com/dorchard/codo-notation in Haskell).
   
-- **Julien Richard-Foy, scalajs-bundler**
+### Julien Richard-Foy, scalajs-bundler
 
   https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aopen+is%3Aissue+label%3Ahackathon
 
@@ -72,11 +72,11 @@ Send us a PR to list it here! Here's an example:
 
   The above link highlights the issues that are approachable for newcomers.
   
-- **Guillaume Massé, Scala-Native**
+### Guillaume Massé, Scala-Native
   
   [scala-native](https://github.com/scala-native/scala-native/issues?q=is%3Aopen+is%3Aissue+label%3Acomponent%3Ajavalib) is a new backend for the Scala compiler. It uses the LLVM compiler infrastructure to get your favorite language closer to bare metal. Similarly to Scala.js, your artifact and its dependencies have to be ported to Scala. To cross compile to Scala.js, Scala-Native and JVM we created [sbt-cross](https://github.com/scala-native/sbt-cross). We need your help to reimplement the JDK in Scala(-Native) and cross-compile core libraries.
 
-**ADD YOUR PROJECTS HERE**
+### ADD YOUR PROJECTS HERE
 
 ## Proposals for talks/workshops/round-tables
 
@@ -85,7 +85,7 @@ Anywhere from 10 to 60 minutes in length.
 Sessions will be voted on unconference-style,
 so some suggestions may not be taken up on the day.
 
-- **Example Person, Example Workshop, about 30 minutes**
+### Example Person, Example Workshop, about 30 minutes
 
   http://example.com/link-to-external-material-if-applicable
 
@@ -97,7 +97,7 @@ so some suggestions may not be taken up on the day.
   Let people know if they need laptops and
   provide pointers to setup instructions if required.
  
-- **Dave Gurnell, Beginner's Shapeless Workshop, 60 minutes**
+### Dave Gurnell, Beginner's Shapeless Workshop, 60 minutes
 
   An easy introduction to shapeless, 
   working on a few of the examples from the
@@ -105,13 +105,13 @@ so some suggestions may not be taken up on the day.
   Bring a laptop with Scala on it and 
   clone [this repo](http://github.com/underscoreio/shapeless-guide-code) to get set up.
 
-- **Noel Welsh, Beginner's Cats Workshop, 60 minutes**
+### Noel Welsh, Beginner's Cats Workshop, 60 minutes
  
   http://github.com/typelevel/cats
 
   Details TBA.
 
-- **Renato Cavalcanti, Beginner's Fun.CQRS Workshop, 60 minutes**  
+### Renato Cavalcanti, Beginner's Fun.CQRS Workshop, 60 minutes
  
   In this workshop you get your hands dirty with [Fun.CQRS](https://github.com/strongtyped/fun-cqrs). 
   
@@ -119,11 +119,11 @@ so some suggestions may not be taken up on the day.
   
   Workshop material can be found [here](https://github.com/strongtyped/fun-cqrs-order-demo).
 
-- **Richard Dallaway, Beginner's Slick Workshop, 60 minutes**
+### Richard Dallaway, Beginner's Slick Workshop, 60 minutes
 
   An introduction to Slick using part of the content from last year's
   [Slick workshop](https://vimeo.com/148074461).
   Bring a laptop with Scala on it and 
   clone [this repo](http://github.com/underscoreio/essential-slick-code) to get set up.
  
-- **ADD YOUR PROPOSALS HERE**
+### ADD YOUR PROPOSALS HERE

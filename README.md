@@ -71,6 +71,10 @@ Send us a PR to list it here! Here's an example:
   application into a single artifact executable by a Web browser.
 
   The above link highlights the issues that are approachable for newcomers.
+  
+- **Guillaume Massé, Scala-Native**
+  
+  [scala-native](https://github.com/scala-native/scala-native/issues?q=is%3Aopen+is%3Aissue+label%3Acomponent%3Ajavalib) is a new backend for the Scala compiler. It uses the LLVM compiler infrastructure to get your favorite language closer to bare metal. Similarly to Scala.js, your artifact and its dependencies have to be ported to Scala. To cross compile to Scala.js, Scala-Native and JVM we created [sbt-cross](https://github.com/scala-native/sbt-cross). We need your help to reimplement the JDK in Scala(-Native) and cross-compile core libraries.
 
 **ADD YOUR PROJECTS HERE**
 

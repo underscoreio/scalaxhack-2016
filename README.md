@@ -33,13 +33,6 @@ Send us a PR to list it here! Here's an example:
   and use the Typelevel Scala compiler 
   as an introduction to compiler hacking.
 
-### Eugene Burmako, Scala.Meta and Macro Paradise
-
-  Hackathon on scala.meta and new-style macros.
-  We'll have a bunch of approachable issues for newcomers.
-  
-  https://github.com/scalameta/scalameta/issues?q=is%3Aissue+is%3Aopen+label%3AHackathon
-
 ### Julien Truffaut, Monocle
 
   http://julien-truffaut.github.io/Monocle  

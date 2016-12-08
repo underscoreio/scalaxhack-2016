@@ -49,7 +49,7 @@ Send us a PR to list it here! Here's an example:
  
 ### Shimi Bandiel, Comonads Notation for Dotty
 
-  I've prartially prototyped a co-monads comprehension (cofor) in Dotty. 
+  I've partially prototyped a co-monads comprehension (cofor) in Dotty. 
   
   Come and help discuss, design and implement a convenient and helpful syntax for co-monads.
   
@@ -68,6 +68,17 @@ Send us a PR to list it here! Here's an example:
 ### Guillaume Massé, Scala-Native
   
   [scala-native](https://github.com/scala-native/scala-native/issues?q=is%3Aopen+is%3Aissue+label%3Acomponent%3Ajavalib) is a new backend for the Scala compiler. It uses the LLVM compiler infrastructure to get your favorite language closer to bare metal. Similarly to Scala.js, your artifact and its dependencies have to be ported to Scala. To cross compile to Scala.js, Scala-Native and JVM we created [sbt-cross](https://github.com/scala-native/sbt-cross). We need your help to reimplement the JDK in Scala(-Native) and cross-compile core libraries.
+
+### Robin Green, Project Seraphim
+
+  [Project Seraphim](https://github.com/greenrd/project-seraphim/issues) is
+  a new project written in Scala whose aim is to make it easier for
+  all programmers (not just Scala programmers) to find out about pull
+  requests that may be of interest to them. One technique it will use
+  for doing this is checking whether a PR modifies lines that you last
+  modified, but we plan to offer many other options. The project has
+  only just started, so if you want to get in "at the ground floor" of
+  an interesting and useful new open source Scala project, join us!
 
 ### ADD YOUR PROJECTS HERE
 

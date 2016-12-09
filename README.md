@@ -80,6 +80,11 @@ Send us a PR to list it here! Here's an example:
   only just started, so if you want to get in "at the ground floor" of
   an interesting and useful new open source Scala project, join us!
 
+### Erik Osheim, Cats
+
+  [cats](https://github.com/typelevel/cats/issues?q=is%3Aopen+is%3Aissue+label%3A%22low-hanging+fruit%22)
+  is a library that provides abstractions for functional programming in Scala.
+
 ### ADD YOUR PROJECTS HERE
 
 ## Proposals for talks/workshops/round-tables

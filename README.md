@@ -114,12 +114,6 @@ so some suggestions may not be taken up on the day.
   Bring a laptop with Scala on it and 
   clone [this repo](http://github.com/underscoreio/shapeless-guide-code) to get set up.
 
-### Noel Welsh, Beginner's Cats Workshop, 60 minutes
- 
-  http://github.com/typelevel/cats
-
-  Details TBA.
-
 ### Renato Cavalcanti, Beginner's Fun.CQRS Workshop, 60 minutes
  
   In this workshop you get your hands dirty with [Fun.CQRS](https://github.com/strongtyped/fun-cqrs). 

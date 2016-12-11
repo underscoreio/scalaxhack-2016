@@ -85,6 +85,11 @@ Send us a PR to list it here! Here's an example:
   [cats](https://github.com/typelevel/cats/issues?q=is%3Aopen+is%3Aissue+label%3A%22low-hanging+fruit%22)
   is a library that provides abstractions for functional programming in Scala.
 
+### Daniela Sfregola, Twitter4s
+
+  [twitter4s](https://github.com/DanielaSfregola/twitter4s)
+  is an asynchronous non-blocking Scala client for both the Twitter Rest and Streaming API.
+
 ### ADD YOUR PROJECTS HERE
 
 ## Proposals for talks/workshops/round-tables
@@ -128,5 +133,9 @@ so some suggestions may not be taken up on the day.
   [Slick workshop](https://vimeo.com/148074461).
   Bring a laptop with Scala on it and 
   clone [this repo](http://github.com/underscoreio/essential-slick-code) to get set up.
- 
+
+### Daniela Sfregola, Cats Workshop, 60 minutes
+
+  An overview of the most useful Data Types of Cats, with practical examples on how they can make your life easier and your code cleaner. Workshop material is [here](https://github.com/DanielaSfregola/cats-scalax-hack).
+
 ### ADD YOUR PROPOSALS HERE
